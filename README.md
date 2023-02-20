@@ -3,9 +3,13 @@
 ## __The Basics__
 ### _What is a Systems Engineer?_
 ---
-System engineering is defined as the integration of multiple disciplines to sanction the use of engineering systems using principles, concepts and theories from scientific, technological and management methods. 
+System engineering is defined as the integration of multiple disciplines to sanction the use of engineering systems using principles, concepts and theories from scientific, technological and management methods.
 
-In essence, system engineers are responsible for designing, developing, and initiating an interdisciplinary approach of multiple engineering systems. They work to gain perspective of all aspects of a system in order to solve problems. These “systems” may include products, people, services, information, natural elements or processes. One must know how to troubleshoot and communicate with all associations in order for the proper implementation and use of such a system.
+![Alt text](.github/word-image-115.jpg)
+
+In essence, system engineers are responsible for designing, developing, and initiating an interdisciplinary approach of multiple engineering systems. They work to gain perspective of all aspects of a system in order to solve problems. These “systems” may include products, people, services, information, natural elements or processes. One must know how to troubleshoot and communicate with all associations in order for the proper implementation and use of such a system. The image below highlights the process of what a system engineer undergoes.
+
+![Alt text](.github/image021.jpg)
 
 ### _Responsibilities of a Systems Engineer:_
 ---
@@ -51,6 +55,8 @@ Although exentsive, there are quite a large variety of pathways one may take to 
 ### _Technical Skills:_
 ---
 
+![Alt text](.github/image-removebg-preview%20(12).png)
+
 Technical skills are required in any job, and are the skills associated with the specialized knowledge to perform specific tasks that are unique to the job. However, in terms of a systems engineer, this varies quite drastically due to the industry that one is in. Thus, in general, it is important to have sufficient knowledge all fields regarding:
 * Computer engineering
 * Software development
@@ -62,6 +68,7 @@ Technical skills are required in any job, and are the skills associated with the
 
 ### _Non-Technical Skills:_
 ---
+![Alt text](.github/Non-Technical-Topics-for-Group-Discussions-removebg-preview.png)
 
 Non-technical skills are the skills that are required of a profession that are not specifically attributed to the job in order to complete tasks of that job. For a systems engineer, this includes critical thinking, analytical skills (analyzing problems), troubleshooting, and implementation of key solutions. Communication skills are also quite significant such as collaboration (working with others) and customer service skills. Finally, time management is a significant skill essential for systems engineers as they often have many responsibilities to undertake.
 
@@ -77,8 +84,12 @@ The two Post-Secondary programs in relation to a system engineer are:
 1. Systems Design Engineering
 2. Management Engineering
 
+![Alt text](.github/management-engineering.jpg)
+
 ### _University Insitution:_
 ---
+![Alt text](.github/download.png)
+
 Both programs are found at the University of Waterloo in Waterloo, Ontario.
 
 ### _Entrance Requirements:_
@@ -161,6 +172,8 @@ In order to be a systems engineer, the two skills required revolve around the te
 
 One significant experiential learning pathway towards becoming a systems engineer is through partaking in co-op and internship programs offered through school.
    
+![Alt text](.github/Intel-PEY-2017-03-30-5076-768x512.jpg)
+
 * Through co-op, students learn essential workplace skills that allow them to mold quickly in their new work environments.
 * They learn to transfer their knowledge in the classroom to the outside world, and learn to appreciate the fruits of their education.
 * As such, the skills they learn can be applied to who they are as a whole, allowing them to expand their proficiency in their field.
@@ -168,10 +181,14 @@ One significant experiential learning pathway towards becoming a systems enginee
 
 One important skill for system engineers is project management skills. This skills are important, as one must learn to know how to work in group environments, troubleshoot, and set clear goals
 
+![Alt text](.github/Startups_746x419.jpg)
+
 * One way to learn project managing skills is through launching/joining a start-up company. Launching such allows one to go through many hurdles, but regardless learn a lot in the end. Learning to set goals, plan accordingly, prioritize, troubleshoot, collaborating and communicating are essential non-technical skills that a systems engineer should have.
 * Another way to learn project managing skills is by having a side-hustle. This could be anything, ranging from freelance tutoring to having a gig. It allows one to do the same: learn by going through obstacles in a small-scale setting.
    
 Finally, an important technical skill to learn when it comes to systems engineering is having a strong background in computer science.
+
+![Alt text](.github/QUANTA_FormSoftwareInPeril-byKristinaArmitage-Lede-scaled-copy%20(1).webp)
 
 * There are many ways to expand a background in such field, some being earning certifications, taking courses from an educational institution, learning on YouTube, or even starting to work in a basic IT setting.
 * The prolonged experience gained from such backgrounds will allow one to continuously excel in the field, developing a stable background in computer science.
@@ -181,6 +198,8 @@ Nevertheless, the term “engineer” is typically only earned through formal ed
 ## __Real Jobs__
 ### _Entry-Level Posiiton_
 ---
+
+![Alt text](.github/AlumaPower_Reflection_RGB.png)
 
 `Position` | `Company` | `Salary `| `City` | 
 ---| ---| --- | --- |
@@ -199,6 +218,9 @@ Additional Skills:
 
 ### _Mid-Level Position_
 ---
+
+![Alt text](.github/image-removebg-preview%20(13).png)
+
 `Position` | `Company` | `Salary `| `City` | 
 ---| ---| --- | --- |
 [IT Systems Engineer](https://ca.indeed.com/viewjob?jk=1e7cb972c9e7d99c&q=systems+engineer+%2460%2C000&tk=1gp734c43j4rc801&from=web&advn=8806031228891070&adid=406003383&ad=-6NYlbfkN0BZNiAi0Tw7lb-OlZGi3VdsBCjE690mx3yCGICwSZukLgrrdq7MiuZcRlSj5d-oKnl38G3S03LA5cJM4HB-aq_KjJ1NaEhxuJ7cJ6eQprNs0SmxzpVyTyA-NSzQvJrkS33qpWrSe0zxLn4gBU3mMm335owcq3P71e56IbfJi_GWwHmMAGhv5KD6xddZDyR_n29BuyGnEEwCwGFrRtaczvLIoRR2fIySfBF2a5IJxaXTmHQKYriMndur_6FMcIZjVW3US8wDhjKaOP7d00_wZanQfssJJVImZxOOq6ZXzDGhxOCdnC1eDAAMe4c5P_RqQa48savMvJdHOEimK-sZMAVguki6WjwkmTB1j_TrA9jDBlqFWkEmaUOcLLCF0cpWFhX1TuCvI2m4ngq4ZS8K71d_0JiQHw6fDAR4L-01ktX8sQ%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoBi-_M3TnOeUAQ8KJ0JbzkdCdPP&vjs=3) | Kingspan Insulated Panels | Up to $120,000/year | Bolton, ON |
@@ -218,6 +240,8 @@ Additional Skills:
 
 ### _Senior-Level Position_
 ---
+
+![Alt text](.github/AMD2.png)
 
 `Position` | `Company` | `Salary `| `City` | 
 ---| ---| --- | --- |
