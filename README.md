@@ -35,11 +35,12 @@
 ---
 System engineering is defined as the integration of multiple disciplines to sanction the use of engineering systems using principles, concepts and theories from scientific, technological and management methods.
 
-![Alt text](.github/word-image-115.jpg)
+<img src=".github/word-image-115.jpg" width="800" height="400">
+
 
 In essence, system engineers are responsible for designing, developing, and initiating an interdisciplinary approach of multiple engineering systems. They work to gain perspective of all aspects of a system in order to solve problems. These “systems” may include products, people, services, information, natural elements or processes. One must know how to troubleshoot and communicate with all associations in order for the proper implementation and use of such a system. The image below highlights the process of what a system engineer undergoes.
 
-![Alt text](.github/image021.jpg)
+<img src=".github/image021.jpg" width="800" height="300">
 
 ### _Responsibilities of a Systems Engineer:_
 ---
@@ -85,7 +86,7 @@ Although exentsive, there are quite a large variety of pathways one may take to 
 ### _Technical Skills:_
 ---
 
-![Alt text](.github/image-removebg-preview%20(12).png)
+<img src=".github/image-removebg-preview%20(12).png" width="800" height="500">
 
 Technical skills are required in any job, and are the skills associated with the specialized knowledge to perform specific tasks that are unique to the job. However, in terms of a systems engineer, this varies quite drastically due to the industry that one is in. Thus, in general, it is important to have sufficient knowledge all fields regarding:
 * Computer engineering
@@ -98,7 +99,8 @@ Technical skills are required in any job, and are the skills associated with the
 
 ### _Non-Technical Skills:_
 ---
-![Alt text](.github/Non-Technical-Topics-for-Group-Discussions-removebg-preview.png)
+
+<img src=".github/Non-Technical-Topics-for-Group-Discussions-removebg-preview.png" width="800" height="400">
 
 Non-technical skills are the skills that are required of a profession that are not specifically attributed to the job in order to complete tasks of that job. For a systems engineer, this includes critical thinking, analytical skills (analyzing problems), troubleshooting, and implementation of key solutions. Communication skills are also quite significant such as collaboration (working with others) and customer service skills. Finally, time management is a significant skill essential for systems engineers as they often have many responsibilities to undertake.
 
@@ -118,7 +120,8 @@ The two Post-Secondary programs in relation to a system engineer are:
 
 ### _University Insitution:_
 ---
-![Alt text](.github/download.png)
+<img src=".github/download.png" width="450" height="200">
+
 
 Both programs are found at the University of Waterloo in Waterloo, Ontario.
 
@@ -218,7 +221,7 @@ One important skill for system engineers is project management skills. This skil
    
 Finally, an important technical skill to learn when it comes to systems engineering is having a strong background in computer science.
 
-![Alt text](.github/QUANTA_FormSoftwareInPeril-byKristinaArmitage-Lede-scaled-copy%20(1).webp)
+<img src=".github/QUANTA_FormSoftwareInPeril-byKristinaArmitage-Lede-scaled-copy%20(1).webp" width="800" height="400">
 
 * There are many ways to expand a background in such field, some being earning certifications, taking courses from an educational institution, learning on YouTube, or even starting to work in a basic IT setting.
 * The prolonged experience gained from such backgrounds will allow one to continuously excel in the field, developing a stable background in computer science.
@@ -229,7 +232,8 @@ Nevertheless, the term “engineer” is typically only earned through formal ed
 ### _Entry-Level Posiiton_
 ---
 
-![Alt text](.github/AlumaPower_Reflection_RGB.png)
+<img src=".github/AlumaPower_Reflection_RGB.png" width="550" height="100">
+
 
 `Position` | `Company` | `Salary `| `City` | 
 ---| ---| --- | --- |
@@ -249,7 +253,8 @@ Additional Skills:
 ### _Mid-Level Position_
 ---
 
-![Alt text](.github/image-removebg-preview%20(13).png)
+<img src=".github/image-removebg-preview%20(13).png" width="440" height="140">
+
 
 `Position` | `Company` | `Salary `| `City` | 
 ---| ---| --- | --- |
@@ -271,7 +276,7 @@ Additional Skills:
 ### _Senior-Level Position_
 ---
 
-![Alt text](.github/AMD2.png)
+<img src=".github/AMD2.png" width="400" height="200">
 
 `Position` | `Company` | `Salary `| `City` | 
 ---| ---| --- | --- |
@@ -289,5 +294,64 @@ Additional Skills:
 * Script/debugging skills in Python, PERL, Bash and/or Powershell
 * Ability to work with minimal direction
 
-## __Works Cited__
+## __Works Cited (MLA 8th)__
 
+### _Information:_
+---
+
+“Courses Systems Design Engineering.” Uwaterloo.ca, 2023, ucalendar.uwaterloo.ca/2324/COURSE/course-SYDE.html#SYDE111. Accessed 20 Feb. 2023.
+
+“LinkedIn.” Linkedin.com, 2023, www.linkedin.com/jobs/view/iam-systems-engineer-at-amd-3467081819/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca. Accessed 20 Feb. 2023.
+
+“IT Systems Engineer - Bolton, on - Indeed.com.” Indeed.com, 2016, ca.indeed.com/viewjob?jk=1e7cb972c9e7d99c&q=systems+engineer+%2460%2C000&tk=1gp734c43j4rc801&from=web&advn=8806031228891070&adid=406003383&ad=-6NYlbfkN0BZNiAi0Tw7lb-OlZGi3VdsBCjE690mx3yCGICwSZukLgrrdq7MiuZcRlSj5d-oKnl38G3S03LA5cJM4HB-aq_KjJ1NaEhxuJ7cJ6eQprNs0SmxzpVyTyA-NSzQvJrkS33qpWrSe0zxLn4gBU3mMm335owcq3P71e56IbfJi_GWwHmMAGhv5KD6xddZDyR_n29BuyGnEEwCwGFrRtaczvLIoRR2fIySfBF2a5IJxaXTmHQKYriMndur_6FMcIZjVW3US8wDhjKaOP7d00_wZanQfssJJVImZxOOq6ZXzDGhxOCdnC1eDAAMe4c5P_RqQa48savMvJdHOEimK-sZMAVguki6WjwkmTB1j_TrA9jDBlqFWkEmaUOcLLCF0cpWFhX1TuCvI2m4ngq4ZS8K71d_0JiQHw6fDAR4L-01ktX8sQ%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoBi-_M3TnOeUAQ8KJ0JbzkdCdPP&vjs=3. Accessed 20 Feb. 2023.
+
+“Systems Application Engineer - Sarnia, on - Indeed.com.” Indeed.com, 2023, ca.indeed.com/viewjob?jk=37d76fc231d0d84e&q=systems+engineer+%2460%2C000&tk=1gp734c43j4rc801&from=web&advn=9987677634677406&adid=406168827&ad=-6NYlbfkN0Byi6OA14z1r8YI_xpwlM9b9qBG08PkEkPQwot7DLqBOgzxseaQaslNMt60dKRMN_WwlX6LFGDjlUlzaYqI2JEtuJGAmxUMF1QWTJv5EMnOrKNlHPm7VmTHGqwkMoiZgQvwEKnMmy3v7GcfRZ6mlXU86h_5bm1xpSsrx7m9m_GYxJaGNE_1oaZyAlBJEhner4ZLVmwGl7sEYVcCzPqovn-tPfZtB7qUKbPKDS7Fqg80Y_wTfbccDX33HJooGL_lK-KRNd8OtWZ82-Nro40g45SYC8E4KQKLInofhzK5q1wnuFNJ0HSWcDXUGT6Z-DV9Q3RCd5c0gNpKdh0RRBgLTTfz9GVLkZU1UTSG4Lu-7yJi2qNZ9Ay4fcw9Ykh9WnbYq5GP2YELxcy6OR3xJaejxmaPl-HhKhNiBJX3N1ksVY4jNQ%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoBY-_M3TnOeUBw8KJ0IbzkdCdPP&vjs=3. Accessed 21 Feb. 2023.
+
+“LinkedIn.” Linkedin.com, 2023, www.linkedin.com/jobs/view/             junior-systems-engineer-new-graduate-at-aviya-aerospace-systems-3412116937/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca. Accessed 21 Feb. 2023.
+“Become a Professional Engineer.” Professional Engineers Ontario, 2023, www.peo.on.ca/licence-applications/become-professional-engineer. Accessed 21 Feb. 2023.
+Simplilearn. “How to Get Project Management Experience for PMP Certification.” Simplilearn.com, Simplilearn, 20 Sept. 2019, www.simplilearn.com/how-to-get-project-management-experience-article. Accessed 21 Feb. 2023.
+
+“Advantages of Co-Op - Engineering Professional Practice.” Engineering Professional Practice, 3 Sept. 2020, www.coop.utk.edu/students/coop/advantages#:~:text=During%20a%20co%2Dop%2C%20the,the%20meaningful%20work%20experience%20gained. Accessed 21 Feb. 2023.
+
+“Scholarships and Awards | Management Sciences.” Management Sciences, May 2021, uwaterloo.ca/management-sciences/undergraduate-students/scholarships-and-awards. Accessed 21 Feb. 2023.
+“Master of Engineering (MEng) in Systems Design Engineering | Graduate Studies Academic Calendar.” Graduate Studies Academic Calendar, 15 Apr. 2016, uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-engineering-meng-systems-design-engineering. Accessed 21 Feb. 2023.
+
+“Future Undergraduate Students | Systems Design Engineering.” Systems Design Engineering, 18 Sept. 2012, uwaterloo.ca/systems-design-engineering/undergraduate-students/future. Accessed 21 Feb. 2023.
+
+“Management Engineering.” Undergraduate Programs, 3 Apr. 2013, uwaterloo.ca/future-students/programs/management-engineering. Accessed 21 Feb. 2023.
+
+“Systems Engineer Salary in Canada - Average Salary.” Talent.com, 2023, ca.talent.com/salary?job=systems+engineer#:~:text=The%20average%20systems%20engineer%20salary%20in%20Canada%20is%20%2487%2C750%20per,up%20to%20%24122%2C671%20per%20year. Accessed 21 Feb. 2023.
+
+atlanticgroup. “What Skills Are Required to Be a Systems Engineer? - Atlantic Group.” Atlantic Group, 13 Nov. 2019, atlanticrecruiters.com/skills-to-be-a-systems-engineer/#:~:text=The%20Non%2Dtechnical%20Side%3A&text=This%20includes%20critical%20thinking%20and,to%20work%20with%20a%20team. Accessed 21 Feb. 2023.
+
+“What Is a Systems Engineer (and How Do I Become One)?” Coursera, 2022, www.coursera.org/articles/systems-engineer. Accessed 21 Feb. 2023.
+
+“Systems Engineering Definition.” INCOSE, 2018, www.incose.org/about-systems-engineering/system-and-se-definition/systems-engineering-definition. Accessed 21 Feb. 2023.
+
+
+Dog, Barking. “Systems Design Engineering (Co-Op Only) – OUInfo.” Ontariouniversitiesinfo.ca, 2023, www.ontariouniversitiesinfo.ca/programs/345. Accessed 21 Feb. 2023.
+
+Hajshirmohammadi, Atousa. “Incorporating Experiential Learning in Engineering Courses.” IEEE Communications Magazine, vol. 55, no. 11, Nov. 2017, pp. 166–169, https://doi.org/10.1109/mcom.2017.1700373. Accessed 19 Oct. 2020.
+
+### _Pictures:_
+---
+
+Nast, Condé. “Computer Science | Latest News, Photos & Videos.” WIRED, 2023, www.wired.com/tag/computer-science/. Accessed 21 Feb. 2023.
+
+“What Are Startups or Emerging Companies and How Do They Work? - Iberdrola.” Iberdrola, 2023, www.iberdrola.com/talent/start-ups. Accessed 21 Feb. 2023.
+
+“Professional Experience Year Co-Op Program (PEY Co-Op) - Engineering Career Centre.” Utoronto.ca, 2018, engineeringcareers.utoronto.ca/work-experience-programs/professional-experience-year-co-op-program-pey-co-op/. Accessed 21 Feb. 2023.
+
+Spiropoulos, Kaliopi. “Case Study: Higher Education – University of Waterloo.” Solutions Metrix, 21 Dec. 2022, www.solutionsmetrix.com/article/case-study-higher-education-university-of-waterloo/. Accessed 21 Feb. 2023.
+
+Edu, Leverage. “Non-Technical Topics for Group Discussions - Leverage Edu.” Leverage Edu, Leverage Edu, 24 Sept. 2021, leverageedu.com/blog/non-technical-topics-for-group-discussions/. Accessed 21 Feb. 2023.
+
+Labs, Sogeti. “Test Data Architecture – and the Trends Affecting It.” SogetiLabs, 28 Nov. 2019, labs.sogeti.com/test-data-architecture-and-the-trends-affecting-it/. Accessed 21 Feb. 2023.
+
+“Systems Engineering for ITS Handbook - Section 3 What Is Systems Engineering?” Dot.gov, 2023, ops.fhwa.dot.gov/publications/seitsguide/section3.htm. Accessed 21 Feb. 2023.
+
+Team, Editorial. “How to Become a Systems Engineer | ComputerCareers.” ComputerCareers, 2 May 2022, www.computercareers.org/how-to-become-a-systems-engineer/. Accessed 21 Feb. 2023.
+A
+lumapower.com, 2022, www.alumapower.com/. Accessed 21 Feb. 2023.
+
+“Kingspan Wall Panels: KS1000 RW, KS1000 AWP & BENCHMARK Evolution - BPI.” Bpir.com.au, 2017, bpir.com.au/product/kingspan-wall-panels-ks1000-rw-ks1000-awp-benchmark-evolution. Accessed 21 Feb. 2023.
