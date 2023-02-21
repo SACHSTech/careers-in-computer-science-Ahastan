@@ -1,5 +1,35 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10093366&assignment_repo_type=AssignmentRepo)
 # Systems Eningeer (IT)
+
+## __Table of Contents__
+
+[The Basics](#the-basics)
+
+   * [Name and Description of Career](#what-is-a-systems-engineer)
+   * [Typical Duties and Responsibilities](#responsibilities-of-a-systems-engineer)
+   * [Required Education](#required-educaiton)
+   * [Required Technical Skills](#technical-skills)
+   * [Required Non-Technical Skills](#non-technical-skills)
+
+[Standard Education](#standard-education)
+
+   * [Post-Secondary Programs](#post-secondary-programs)
+   * [University Institution](#university-insitution)
+   * [Entrance Requirements](#entrance-requirements)
+   * [First Year Courses](#first-year-courses)
+   * [Other Requirements](#other-requirements)
+   * [Length of Time](#length-of-time)
+
+[Experiential Learning](#experiential-learning)
+
+[Real Jobs](#real-jobs)
+
+   * [Entry-Level Position](#entry-level-posiiton)
+   * [Mid-Level Position](#mid-level-position)
+   * [Senior-Level Position](#senior-level-position)
+
+
+
 ## __The Basics__
 ### _What is a Systems Engineer?_
 ---
@@ -258,3 +288,6 @@ Additional Skills:
 * Devops and automation experience
 * Script/debugging skills in Python, PERL, Bash and/or Powershell
 * Ability to work with minimal direction
+
+## __Works Cited__
+
